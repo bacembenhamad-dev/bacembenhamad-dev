@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="188"
+     viewBox="0 0 460 188">
+  <rect width="100%" height="100%" fill="#0a0e0f" stroke="#154d27" stroke-width="1.5" rx="6" />
+  <rect x="0" y="0" width="100%" height="36" fill="#0d1f12" rx="6" />
+  <rect x="0" y="30" width="100%" height="6" fill="#0d1f12" />
+  <circle cx="18" cy="18.0" r="5" fill="#ff5f56" />
+  <circle cx="36" cy="18.0" r="5" fill="#ffbd2e" />
+  <circle cx="54" cy="18.0" r="5" fill="#27c93f" />
+  <text x="230.0" y="23.0" text-anchor="middle" font-family="'Cascadia Code','Consolas',monospace"
+        font-size="12" fill="#1f8f3f">guest@bacembenhamad-dev</text>
+
+  <text x="20" y="76" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
+    <tspan fill="#1f8f3f">role  </tspan><tspan fill="#39ff14"> Software Engineer</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.4s" fill="freeze" />
+  </text>
+  <text x="20" y="104" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
+    <tspan fill="#1f8f3f">focus </tspan><tspan fill="#39ff14"> Building things that work</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.4s" fill="freeze" />
+  </text>
+  <text x="20" y="132" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
+    <tspan fill="#1f8f3f">stack </tspan><tspan fill="#39ff14"> Python · JavaScript · SQL</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze" />
+  </text>
+  <text x="20" y="160" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
+    <tspan fill="#1f8f3f">now   </tspan><tspan fill="#39ff14"> Polishing my GitHub profile</tspan>
+    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze" />
+  </text>
+</svg>

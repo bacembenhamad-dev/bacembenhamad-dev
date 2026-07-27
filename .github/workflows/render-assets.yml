@@ -1,0 +1,24 @@
+# One-time / manual full render of portrait.svg, sysinfo.svg, graph.svg.
+name: Render profile assets
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r tools/requirements-art.txt -r tools/requirements-daily.txt
+      - run: python tools/clean_photo.py
+      - run: python tools/render_portrait.py
+      - run: python tools/render_panel.py
+      - run: python tools/pull_contributions.py
+      - run: python tools/render_graph.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: render profile assets"
+          file_pattern: "assets/photo-ready.png assets/contributions.json portrait.svg sysinfo.svg graph.svg"
