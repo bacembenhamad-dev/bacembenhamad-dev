@@ -14,8 +14,8 @@ TITLE = "guest@bacembenhamad-dev"
 ROWS = [
     ("role", "Ai and Data Sience Engineer"),
     ("focus", "Building things that work"),
-    ("stack", "Python · Typescript · SQL"),
-    ("now", "I just do it "),
+    ("stack", "Full-Stack Python · Typescript · SQL"),
+    ("now", "I just do it and learn along the way"),
 ]
 
 BG_COLOR = "#0a0e0f"
