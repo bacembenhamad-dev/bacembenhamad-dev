@@ -10,7 +10,7 @@
         font-size="12" fill="#1f8f3f">guest@bacembenhamad-dev</text>
 
   <text x="20" y="76" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
-    <tspan fill="#1f8f3f">role  </tspan><tspan fill="#39ff14"> Software Engineer</tspan>
+    <tspan fill="#1f8f3f">role  </tspan><tspan fill="#39ff14"> Ai and Data Sience Engineer</tspan>
     <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.4s" fill="freeze" />
   </text>
   <text x="20" y="104" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
@@ -18,11 +18,11 @@
     <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.4s" fill="freeze" />
   </text>
   <text x="20" y="132" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
-    <tspan fill="#1f8f3f">stack </tspan><tspan fill="#39ff14"> Python · JavaScript · SQL</tspan>
+    <tspan fill="#1f8f3f">stack </tspan><tspan fill="#39ff14"> Python · Typescript · SQL</tspan>
     <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze" />
   </text>
   <text x="20" y="160" font-family="'Cascadia Code','Consolas',monospace" font-size="14" opacity="0">
-    <tspan fill="#1f8f3f">now   </tspan><tspan fill="#39ff14"> Polishing my GitHub profile</tspan>
+    <tspan fill="#1f8f3f">now   </tspan><tspan fill="#39ff14"> I just do it </tspan>
     <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.4s" fill="freeze" />
   </text>
 </svg>
