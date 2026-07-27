@@ -12,7 +12,7 @@ OUTPUT = REPO_ROOT / "sysinfo.svg"
 TITLE = "guest@bacembenhamad-dev"
 
 ROWS = [
-    ("role", "Ai and Data Sience Engineer"),
+    ("role", "AI and Data Science Engineer"),
     ("focus", "Building things that work"),
     ("stack", "Full-Stack Python · Typescript · SQL"),
     ("now", "I just do it and learn along the way"),
