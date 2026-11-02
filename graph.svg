@@ -626,8 +626,8 @@
     <title>2026-04-06: 0 contributions</title>
     <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.35s" fill="freeze" />
   </rect>
-  <rect x="324" y="44" width="11" height="11" rx="2" fill="#154d27" opacity="0">
-    <title>2026-04-07: 2 contributions</title>
+  <rect x="324" y="44" width="11" height="11" rx="2" fill="#0d1f12" opacity="0">
+    <title>2026-04-07: 0 contributions</title>
     <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.35s" fill="freeze" />
   </rect>
   <rect x="324" y="58" width="11" height="11" rx="2" fill="#0d1f12" opacity="0">
@@ -1458,10 +1458,14 @@
     <title>2026-10-31: 1 contributions</title>
     <animate attributeName="opacity" from="0" to="1" begin="1.53s" dur="0.35s" fill="freeze" />
   </rect>
-  <rect x="744" y="16" width="11" height="11" rx="2" fill="#0d1f12" opacity="0">
-    <title>2026-11-01: 0 contributions</title>
+  <rect x="744" y="16" width="11" height="11" rx="2" fill="#154d27" opacity="0">
+    <title>2026-11-01: 1 contributions</title>
+    <animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.35s" fill="freeze" />
+  </rect>
+  <rect x="744" y="30" width="11" height="11" rx="2" fill="#0d1f12" opacity="0">
+    <title>2026-11-02: 0 contributions</title>
     <animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.35s" fill="freeze" />
   </rect>
 <text x="614" y="140" font-family="'Cascadia Code','Consolas',monospace" font-size="10" fill="#1f8f3f">Less</text><rect x="648" y="130" width="11" height="11" rx="2" fill="#0d1f12" /><rect x="662" y="130" width="11" height="11" rx="2" fill="#154d27" /><rect x="676" y="130" width="11" height="11" rx="2" fill="#1f8f3f" /><rect x="690" y="130" width="11" height="11" rx="2" fill="#39ff14" /><rect x="704" y="130" width="11" height="11" rx="2" fill="#9dffb0" /><text x="724" y="140" font-family="'Cascadia Code','Consolas',monospace" font-size="10" fill="#1f8f3f">More</text>
-  <text x="16" y="152" font-family="'Cascadia Code','Consolas',monospace" font-size="11" fill="#39ff14">total: 138   current streak: 0d   longest streak: 97d   busiest day: Sunday</text>
+  <text x="16" y="152" font-family="'Cascadia Code','Consolas',monospace" font-size="11" fill="#39ff14">total: 137   current streak: 0d   longest streak: 98d   busiest day: Sunday</text>
 </svg>
